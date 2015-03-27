@@ -1,0 +1,12 @@
+c:\users\pgriffiths\documents\visual studio 2010\Projects\GISTeaDecider\GISTeaDecider\bin\Debug\GISTeaDecider.exe
+c:\users\pgriffiths\documents\visual studio 2010\Projects\GISTeaDecider\GISTeaDecider\bin\Debug\GISTeaDecider.pdb
+c:\users\pgriffiths\documents\visual studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.Properties.Resources.resources
+c:\users\pgriffiths\documents\visual studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.csproj.GenerateResource.Cache
+c:\users\pgriffiths\documents\visual studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.exe
+c:\users\pgriffiths\documents\visual studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.pdb
+C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.csprojResolveAssemblyReference.cache
+C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.TeaDecider.resources
+C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\bin\Debug\GISTeaDecider.exe.manifest
+C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\bin\Debug\GISTeaDecider.application
+C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.exe.manifest
+C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Debug\GISTeaDecider.application
