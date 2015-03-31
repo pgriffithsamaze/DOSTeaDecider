@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
-using System.Net.Mail;
-using System.Net;
 
 namespace GISTeaDecider
 {
@@ -757,7 +750,7 @@ namespace GISTeaDecider
                 foreach (var itemSelected in chkListIncluded.CheckedItems.OfType<String>().ToList())
                 {
                     chkListIncluded.Items.Remove(itemSelected);
-                    chkListTeam.Items.Add(itemSelected.ToString());
+                    if (itemSelected != null) chkListTeam.Items.Add(item: itemSelected);
                 }
             }
 
