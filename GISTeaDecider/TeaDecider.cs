@@ -20,6 +20,9 @@ namespace GISTeaDecider
 
         Email Emailer = new Email();
 
+        private List<Person> DOSSERS = new List<Person>(); 
+
+
         private void btnGenerate_Click(object sender, EventArgs e)
         {
 

@@ -10,3 +10,15 @@ C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDe
 C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.exe
 C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.pdb
 C:\Users\pgriffiths\Documents\Visual Studio 2010\Projects\GISTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.csprojResolveAssemblyReference.cache
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.exe
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.pdb
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\bin\Release\GISTeaDecider.exe.manifest
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\bin\Release\GISTeaDecider.application
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\bin\Release\GISTeaDecider.exe
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\bin\Release\GISTeaDecider.pdb
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.csprojResolveAssemblyReference.cache
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.TeaDecider.resources
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.Properties.Resources.resources
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.csproj.GenerateResource.Cache
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.exe.manifest
+C:\ClientSites\AmazeDOS\TeaDecider\DOSTeaDecider\GISTeaDecider\obj\x86\Release\GISTeaDecider.application
